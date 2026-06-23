@@ -186,7 +186,7 @@ Identifies bottlenecks and improves service quality.
 
 ### Home Dashboard
 
-![Dashboard Screenshot](images/dashboard1.png)
+![Dashboard Screenshot]([images/dashboard1.png](https://github.com/Anis-alam/healthcare-powerbi-dashboard/blob/main/Hospital%20summary.png))
 
 ### Patient Analysis
 
