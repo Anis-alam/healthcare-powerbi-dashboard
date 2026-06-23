@@ -182,21 +182,8 @@ Identifies bottlenecks and improves service quality.
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your dashboard here
+<img width="1280" height="717" alt="Hospital summary" src="https://github.com/user-attachments/assets/9d429740-11e4-4e5a-8d76-e91f21738e46" />
 
-### Home Dashboard
-
-![Dashboard Screenshot]([images/dashboard1.png](https://github.com/Anis-alam/healthcare-powerbi-dashboard/blob/main/Hospital%20summary.png))
-
-### Patient Analysis
-
-![Dashboard Screenshot](images/dashboard2.png)
-
-### Revenue Analysis
-
-![Dashboard Screenshot](images/dashboard3.png)
-
----
 
 ## 📊 Insights Generated
 
@@ -246,8 +233,8 @@ Give this repository a **Star ⭐** and feel free to contribute or provide feedb
 
 ### 📬 Connect With Me
 
-* LinkedIn: Add Your LinkedIn Profile
-* GitHub: Add Your GitHub Profile
+* LinkedIn: https://www.linkedin.com/in/anis-alam-214770232/
+* GitHub: https://github.com/Anis-alam
 
 ---
 
